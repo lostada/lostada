@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects
 - 📫 How to reach me discord: lostadas
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 15 years, and developer on roblox.
+- ⚡ Fun fact: 15 years, and developer on roblox and unity.
 
 <!---
 lostada/lostada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
